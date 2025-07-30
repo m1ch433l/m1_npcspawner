@@ -1,0 +1,76 @@
+{
+  "ui": {
+    "title": "NPC Spawner",
+    "buttons": {
+      "spawn_npc": "Spawn NPC",
+      "manage_npcs": "Manage NPCs",
+      "edit": "Edit",
+      "delete": "Delete",
+      "teleport": "Teleport",
+      "cancel": "Cancel",
+      "save": "Save",
+      "save_changes": "Save Changes"
+    },
+    "labels": {
+      "npc_name": "NPC Name",
+      "ped_model": "Ped Model",
+      "coordinates": "Coordinates",
+      "heading": "Heading",
+      "invincible": "Invincible",
+      "freeze": "Freeze",
+      "block_events": "Block Events",
+      "animations_allowed": "Animations Allowed",
+      "use_scenario": "Use Scenario",
+      "use_animation": "Use Animation",
+      "scenario": "Scenario",
+      "animation_dict": "Animation Dictionary",
+      "animation_name": "Animation Name",
+      "animation_flag": "Animation Flag",
+      "weapon": "Weapon (Optional)",
+      "created_by": "Created by"
+    },
+    "placeholders": {
+      "enter_npc_name": "Enter NPC name...",
+      "enter_ped_model": "Enter ped model...",
+      "search_npcs": "Search NPCs..."
+    },
+    "options": {
+      "manual_input": "Manual Input",
+      "use_custom_coordinates": "Use Custom Coordinates",
+      "update_coordinates": "Update Coordinates"
+    },
+    "modals": {
+      "edit_npc": "Edit NPC"
+    },
+    "messages": {
+      "no_npcs_found": "No NPCs found",
+      "npc_invincible": "This NPC is invincible"
+    }
+  },
+  "notifications": {
+    "success": {
+      "npc_spawned": "NPC spawned successfully",
+      "npc_deleted": "NPC deleted successfully",
+      "npc_updated": "NPC updated successfully",
+      "teleported_to_npc": "Teleported to NPC"
+    },
+    "teleport": {
+      "title": "Teleported to NPC",
+      "description": "You have been teleported to the selected NPC"
+    },
+    "error": {
+      "no_permission_spawn": "You do not have permission to use this command",
+      "no_permission_delete": "You do not have permission to delete NPCs",
+      "no_permission_update": "You do not have permission to update NPCs",
+      "no_permission_teleport": "You do not have permission to teleport to NPCs",
+      "invalid_npc_data": "Invalid NPC data provided",
+      "invalid_npc_id": "Invalid NPC ID provided",
+      "invalid_update_data": "Invalid update data provided",
+      "npc_not_found": "NPC not found",
+      "required_fields": "NPC name and model are required"
+    }
+  },
+  "commands": {
+    "npcspawner": "Open NPC Spawner"
+  }
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "animationsAllowed": false,
+        "useScenario": false,
+        "heading": 47.83,
+        "model": "ig_bestmen",
+        "freeze": true,
+        "createdByName": "𝖒𝟏𝖈𝖍𝟒𝟑𝖑",
+        "animDict": "",
+        "createdAt": 1753878665,
+        "createdBy": 1,
+        "useAnimation": false,
+        "name": "MP Male",
+        "scenario": "",
+        "animName": "",
+        "coords": {
+            "x": -2068.24,
+            "z": 32.81,
+            "y": 2888.95
+        },
+        "weapon": "WEAPON_CARBINERIFLE",
+        "animFlag": 1,
+        "blockEvents": true,
+        "invincible": true,
+        "id": "npc_1_1753878665"
+    },
+    {
+        "animationsAllowed": true,
+        "useScenario": true,
+        "heading": 221.31,
+        "model": "s_m_m_doctor_01",
+        "freeze": false,
+        "createdByName": "𝖒𝟏𝖈𝖍𝟒𝟑𝖑",
+        "animDict": "",
+        "createdAt": 1753878689,
+        "createdBy": 1,
+        "useAnimation": false,
+        "name": "doktor",
+        "scenario": "WORLD_HUMAN_SMOKING",
+        "animName": "",
+        "coords": {
+            "x": -2073.16,
+            "z": 32.81,
+            "y": 2894.14
+        },
+        "weapon": "",
+        "animFlag": 1,
+        "blockEvents": true,
+        "invincible": false,
+        "id": "npc_2_1753878689"
+    }
+]
